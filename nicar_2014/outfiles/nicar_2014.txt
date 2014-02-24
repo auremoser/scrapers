@@ -1,812 +1,183 @@
-TechRaking 5ish: Bootstrapping the news (Sponsored by The Center for Investigative Reporting)
-------------------------------
-Detecting corporate fraud (Sponsored by Donald W. Reynolds National Center for Business Journalism)
-------------------------------
-CAR Conference Registration (Wednesday)
-------------------------------
-CAR Conference Sales (Thursday)
-------------------------------
-CAR Conference Registration (Thursday)
-------------------------------
-Welcome and overview of the conference
-------------------------------
-Getting started: Controlling CAR conference overload
-------------------------------
-NewsCamp::The next generation of data viz
-------------------------------
-Getting started with open-source database manager MySQL
-------------------------------
-Rifling through the mapping toolbox
-------------------------------
-PyCAR Mini Boot Camp - Team B
-------------------------------
-This just in: Data for breaking news investigations
-------------------------------
-PyCAR Mini Boot Camp - Team A
-------------------------------
-Media as data-illuminating the undiscovered country of television news
-------------------------------
-Amazon Cloud Basics
-------------------------------
-Mapping Mini Boot Camp
-------------------------------
-Tableau Public for beginners (Hosted by Tableau)
-------------------------------
-Enhance your stories with statistics
-------------------------------
-Follow the fracking
-------------------------------
-Getting started with open-source database manager MySQL Part II
-------------------------------
-Use FOIA Machine to prepare, send and track your public records requests
-------------------------------
-Make dirty data shine with OpenRefine
-------------------------------
-NewsCamp::Intro to D3
-------------------------------
-The data-driven story (Part 1) Conceiving and launching
-------------------------------
-Dig into business with data investigations
-------------------------------
-Love your life, retire your servers
-------------------------------
-The data-driven story (Part 2) Putting the package together
-------------------------------
-FollowTheMoney: Lead the pack in tracking campaign finance
-------------------------------
-Torturing Excel into doing stats
-------------------------------
-Maps and charts in R: real newsroom examples
-------------------------------
-Tableau Public for pros (Hosted by Tableau)
-------------------------------
-The data-driven story (Part 3): Bulletproofing and presentation
-------------------------------
-Killers and other criminals: Keeping tabs on crime
-------------------------------
-NewsCamp: The next generation of data viz (Advanced)
-------------------------------
-NewsCamp: The next generation of data viz (Beginner)
-------------------------------
-The customized Census: How to use microdata when you just can't find the right table
-------------------------------
-Hacks or Hackers?
-------------------------------
-Free tools for data analysis
-------------------------------
-Breaking out the heavy artillery - using data to track weapons
-------------------------------
-Save the data: going from zip (drive) to news by rescuing, analyzing old data
-------------------------------
-Docs! Docs! Docs!
-------------------------------
-When data don't exist
-------------------------------
-TechRaking 5ish: Bootstrapping the news (Sponsored by The Center for Investigative Reporting)
-------------------------------
-Detecting corporate fraud (Sponsored by Donald W. Reynolds National Center for Business Journalism)
-------------------------------
-CAR Conference Registration (Wednesday)
-------------------------------
-CAR Conference Sales (Thursday)
-------------------------------
-CAR Conference Registration (Thursday)
-------------------------------
-Welcome and overview of the conference
-------------------------------
-Getting started: Controlling CAR conference overload
-------------------------------
-NewsCamp::The next generation of data viz
-------------------------------
-Getting started with open-source database manager MySQL
-------------------------------
-Rifling through the mapping toolbox
-------------------------------
-PyCAR Mini Boot Camp - Team B
-------------------------------
-This just in: Data for breaking news investigations
-------------------------------
-PyCAR Mini Boot Camp - Team A
-------------------------------
-Media as data-illuminating the undiscovered country of television news
-------------------------------
-Amazon Cloud Basics
-------------------------------
-Mapping Mini Boot Camp
-------------------------------
-Tableau Public for beginners (Hosted by Tableau)
-------------------------------
-Enhance your stories with statistics
-------------------------------
-Follow the fracking
-------------------------------
-Getting started with open-source database manager MySQL Part II
-------------------------------
-Use FOIA Machine to prepare, send and track your public records requests
-------------------------------
-Make dirty data shine with OpenRefine
-------------------------------
-NewsCamp::Intro to D3
-------------------------------
-The data-driven story (Part 1) Conceiving and launching
-------------------------------
-Dig into business with data investigations
-------------------------------
-Love your life, retire your servers
-------------------------------
-The data-driven story (Part 2) Putting the package together
-------------------------------
-FollowTheMoney: Lead the pack in tracking campaign finance
-------------------------------
-Torturing Excel into doing stats
-------------------------------
-Maps and charts in R: real newsroom examples
-------------------------------
-Tableau Public for pros (Hosted by Tableau)
-------------------------------
-The data-driven story (Part 3): Bulletproofing and presentation
-------------------------------
-Killers and other criminals: Keeping tabs on crime
-------------------------------
-NewsCamp: The next generation of data viz (Advanced)
-------------------------------
-NewsCamp: The next generation of data viz (Beginner)
-------------------------------
-The customized Census: How to use microdata when you just can't find the right table
-------------------------------
-Hacks or Hackers?
-------------------------------
-Free tools for data analysis
-------------------------------
-Breaking out the heavy artillery - using data to track weapons
-------------------------------
-Save the data: going from zip (drive) to news by rescuing, analyzing old data
-------------------------------
-Docs! Docs! Docs!
-------------------------------
-When data don't exist
-------------------------------
-Make reporting better, together — Collaborative reporting with GitHub
-------------------------------
-The Investigative Dashboard – Tools to expose organized crime and corruption around the world.
-------------------------------
-Investigating infrastructure: The National Inventory of Dams
-------------------------------
-Tools for cracking PDFs
-------------------------------
-How the internet watches you
-------------------------------
-Harnessing the power of the crowd
-------------------------------
-CAR Conference Sales (Friday)
-------------------------------
-CAR Conference Registration (Friday)
-------------------------------
-Statistics: an introduction
-------------------------------
-Holding algorithms accountable
-------------------------------
-The year in CAR in odorama
-------------------------------
-A tour of the new Census Reporter
-------------------------------
-Fusion Tables for beginners
-------------------------------
-Intro to JavaScript
-------------------------------
-Getting started with Excel
-------------------------------
-Finding great stories in not-so-great nonprofits
-------------------------------
-It's a disaster
-------------------------------
-Build your first News App (Friday)
-------------------------------
-Advanced functions in Excel
-------------------------------
-Statistics: basic linear regression
-------------------------------
-Grab data from the Web with Helium Scraper
-------------------------------
-Complaints: A road map for killer investigations
-------------------------------
-Using formulas in Excel
-------------------------------
-Introduction to R
-------------------------------
-Liberate data from PDFs with Tabula
-------------------------------
-Free the data: Getting government agencies to give up the goods
-------------------------------
-Powerful data science tools without an engineering degree
-------------------------------
-Proper workflows for data projects
-------------------------------
-Wading through the sea of data on hospitals, doctors, medicine and more
-------------------------------
-Pivot tables for stories
-------------------------------
-Analyze networks with NodeXL
-------------------------------
-More than an editor: Leadership for data-driven projects
-------------------------------
-Mapping from the desktop to the web
-------------------------------
-Git and GitHub 101 — Create your first pull request today!
-------------------------------
-PoliInformatics research challenge : New methods for computational investigations of the financial crisis
-------------------------------
-Campaign Finance I: Mining FEC data
-------------------------------
-Cooking with hardware
-------------------------------
-Statistics: logistic regression
-------------------------------
-Creating maps: Principles, mistakes and potential
-------------------------------
-Student brown bag: What do you mean I can’t have that public record?
-------------------------------
-Building maps with leaflet and mapbox.js
-------------------------------
-Social media for investigations
-------------------------------
-Campaign Finance II: Going beyond the data
-------------------------------
-Create your own interactive newsgame in 50 minutes!
-------------------------------
-Mini Boot Camp
-------------------------------
-The customized Census: Using microdata
-------------------------------
-Investigating racial inequality
-------------------------------
-Protecting your work from prying eyes
-------------------------------
-Intro To SQLite
-------------------------------
-Building charts and graphs that are connected to live data
-------------------------------
-DataViz for everyone: A practical guide to going responsive
-------------------------------
-Grabbing data from websites: tips and tricks
-------------------------------
-SQLite for command line
-------------------------------
-How PANDA works: Software architecture for big data
-------------------------------
-50 ideas in 50 minutes
-------------------------------
-Weathering the storm: Using data to track nature's fury
-------------------------------
-Using Excel for statistics
-------------------------------
-Everyday scripting
-------------------------------
-100+ tips and tools for news research
-------------------------------
-Lightning talks (Sponsored by John S. and James L. Knight Foundation)
-------------------------------
-Philip Meyer Award Reception
-------------------------------
-CAR Conference Registration (Saturday)
-------------------------------
-CAR Conference Sales (Saturday)
-------------------------------
-Build your first News App (Saturday)
-------------------------------
-The art and craft of finding people
-------------------------------
-How to feel like you're hacking without really doing it
-------------------------------
-Danger! Hazardous materials: Using data to uncover pollution
-------------------------------
-Incorporating data into your beat
-------------------------------
-My friend FRED: A free tool for searching and graphing business, economic and government data
-------------------------------
-Threat modeling: Security for your story
-------------------------------
-Political framing: Computational analysis of rhetoric in large text datasets
-------------------------------
-Getting started with SQL
-------------------------------
-Ruby 1: Introduction
-------------------------------
-Introduction to mapping: Importing and displaying data geographically with QGIS
-------------------------------
-How to uncover inequity and swindlers in subsidized housing programs near you
-------------------------------
-A quick trip through data in the sciences
-------------------------------
-Building a data journalism course
-------------------------------
-Mapping 2: Manipulating and editing geographic data with QGIS
-------------------------------
-docHive: Pulling structured data from scanned PDFs
-------------------------------
-Counting and summing with SQL
-------------------------------
-Ruby 2: Acquiring and transforming data
-------------------------------
-DocumentCloud
-------------------------------
-An app for that: Mobile tech and tools for reporting
-------------------------------
-Journalists - Staying safe in a digital world
-------------------------------
-People and patterns: The network behind the story
-------------------------------
-PostGIS & CartoDB
-------------------------------
-A picture of Earth through time: Storytelling with Google Earth Engine
-------------------------------
-Go! Go! In the hot seat with breaking news
-------------------------------
-Excel magic: Advanced functions in Excel
-------------------------------
-It's not just for looks: Presentation as a storytelling tool
-------------------------------
-Examining prescribing patterns (Phil Meyer Award winner)
-------------------------------
-Joining tables with SQL
-------------------------------
-Ruby 3: Simple web apps with Ruby
-------------------------------
-The fine art of negotiating for data
-------------------------------
-Regular expressions
-------------------------------
-NewsCamp::Demystifying D3
-------------------------------
-OpenElections year-in-review
-------------------------------
-Inside the global offshore money maze
-------------------------------
-Mini Boot Camp - Saturday
-------------------------------
-Advanced GitHubbing and Git Internals
-------------------------------
-Getting started with Python
-------------------------------
-"Mind the Gap" --- Holes in your data can lead you to stories
-------------------------------
-Unlocking secrets of Excel to cover economics and business
-------------------------------
-Inspecting the inspectors: Using inspection data to drive your stories
-------------------------------
-Data deep dives (part 1)
-------------------------------
-Beyond the basics: Advanced SQL for analysis
-------------------------------
-It's not on the exam: Exploring data beyond standardized tests on the education beat
-------------------------------
-CAR wash: Clean that dirty data
-------------------------------
-Python: Beyond the basics I
-------------------------------
-Open data: Practical tips and current issues
-------------------------------
-You won't believe what static site generators can do for news apps
-------------------------------
-Crossing the language boundaries across your newsroom: journo to dev and back
-------------------------------
-Getting data into Excel
-------------------------------
-When to scrape: Tools and techniques
-------------------------------
-Digging online for global data
-------------------------------
-Lyra: Custom visualization design without programming
-------------------------------
-Data deep dives (part 2)
-------------------------------
-Cross-platform collaboration for data projects
-------------------------------
-The latest from Sunlight
-------------------------------
-Python: Beyond the basics II
-------------------------------
-Even more with R
-------------------------------
-Make dirty data shine with OpenRefine (repeat)
-------------------------------
-CAR Conference Sales (Sunday)
-------------------------------
-Advanced searching techniques
-------------------------------
-Tools for Social Network Analysis investigations
-------------------------------
-Where do you want to go: Career roundtable
-------------------------------
-Mini Boot Camp - Sunday
-------------------------------
-Intro to Fusion Tables
-------------------------------
-How to deal with millions of documents without losing your mind (and time)
-------------------------------
-Installation party
-------------------------------
-Census I: Must-have data for every beat
-------------------------------
-OpenElections hackathon
-------------------------------
-Build your bot army
-------------------------------
-Data cleaning in Excel
-------------------------------
-Census II: Going beyond the basics
-------------------------------
-Web tools, tips and tricks for investigations
-------------------------------
-Feel like you're hacking without really doing it
-------------------------------
-What's the deal with data science?
-------------------------------
-Census III: Mapping and presentation
-------------------------------
-A tour of IRE and NICAR (Make the most of your membership)
-------------------------------
-TechRaking 5ish: Bootstrapping the news (Sponsored by The Center for Investigative Reporting)
-------------------------------
-Detecting corporate fraud (Sponsored by Donald W. Reynolds National Center for Business Journalism)
-------------------------------
-CAR Conference Registration (Wednesday)
-------------------------------
-CAR Conference Sales (Thursday)
-------------------------------
-CAR Conference Registration (Thursday)
-------------------------------
-Welcome and overview of the conference
-------------------------------
-Getting started: Controlling CAR conference overload
-------------------------------
-NewsCamp::The next generation of data viz
-------------------------------
-Getting started with open-source database manager MySQL
-------------------------------
-Rifling through the mapping toolbox
-------------------------------
-PyCAR Mini Boot Camp - Team B
-------------------------------
-This just in: Data for breaking news investigations
-------------------------------
-PyCAR Mini Boot Camp - Team A
-------------------------------
-Media as data-illuminating the undiscovered country of television news
-------------------------------
-Amazon Cloud Basics
-------------------------------
-Mapping Mini Boot Camp
-------------------------------
-Tableau Public for beginners (Hosted by Tableau)
-------------------------------
-Enhance your stories with statistics
-------------------------------
-Follow the fracking
-------------------------------
-Getting started with open-source database manager MySQL Part II
-------------------------------
-Use FOIA Machine to prepare, send and track your public records requests
-------------------------------
-Make dirty data shine with OpenRefine
-------------------------------
-NewsCamp::Intro to D3
-------------------------------
-The data-driven story (Part 1) Conceiving and launching
-------------------------------
-Dig into business with data investigations
-------------------------------
-Love your life, retire your servers
-------------------------------
-The data-driven story (Part 2) Putting the package together
-------------------------------
-FollowTheMoney: Lead the pack in tracking campaign finance
-------------------------------
-Torturing Excel into doing stats
-------------------------------
-Maps and charts in R: real newsroom examples
-------------------------------
-Tableau Public for pros (Hosted by Tableau)
-------------------------------
-The data-driven story (Part 3): Bulletproofing and presentation
-------------------------------
-Killers and other criminals: Keeping tabs on crime
-------------------------------
-NewsCamp: The next generation of data viz (Advanced)
-------------------------------
-NewsCamp: The next generation of data viz (Beginner)
-------------------------------
-The customized Census: How to use microdata when you just can't find the right table
-------------------------------
-Hacks or Hackers?
-------------------------------
-Free tools for data analysis
-------------------------------
-Breaking out the heavy artillery - using data to track weapons
-------------------------------
-Save the data: going from zip (drive) to news by rescuing, analyzing old data
-------------------------------
-Docs! Docs! Docs!
-------------------------------
-When data don't exist
-------------------------------
-Make reporting better, together — Collaborative reporting with GitHub
-------------------------------
-The Investigative Dashboard – Tools to expose organized crime and corruption around the world.
-------------------------------
-Investigating infrastructure: The National Inventory of Dams
-------------------------------
-Tools for cracking PDFs
-------------------------------
-How the internet watches you
-------------------------------
-Harnessing the power of the crowd
-------------------------------
-CAR Conference Sales (Friday)
-------------------------------
-CAR Conference Registration (Friday)
-------------------------------
-Statistics: an introduction
-------------------------------
-Holding algorithms accountable
-------------------------------
-The year in CAR in odorama
-------------------------------
-A tour of the new Census Reporter
-------------------------------
-Fusion Tables for beginners
-------------------------------
-Intro to JavaScript
-------------------------------
-Getting started with Excel
-------------------------------
-Finding great stories in not-so-great nonprofits
-------------------------------
-It's a disaster
-------------------------------
-Build your first News App (Friday)
-------------------------------
-Advanced functions in Excel
-------------------------------
-Statistics: basic linear regression
-------------------------------
-Grab data from the Web with Helium Scraper
-------------------------------
-Complaints: A road map for killer investigations
-------------------------------
-Using formulas in Excel
-------------------------------
-Introduction to R
-------------------------------
-Liberate data from PDFs with Tabula
-------------------------------
-Free the data: Getting government agencies to give up the goods
-------------------------------
-Powerful data science tools without an engineering degree
-------------------------------
-Proper workflows for data projects
-------------------------------
-Wading through the sea of data on hospitals, doctors, medicine and more
-------------------------------
-Pivot tables for stories
-------------------------------
-Analyze networks with NodeXL
-------------------------------
-More than an editor: Leadership for data-driven projects
-------------------------------
-Mapping from the desktop to the web
-------------------------------
-Git and GitHub 101 — Create your first pull request today!
-------------------------------
-PoliInformatics research challenge : New methods for computational investigations of the financial crisis
-------------------------------
-Campaign Finance I: Mining FEC data
-------------------------------
-Cooking with hardware
-------------------------------
-Statistics: logistic regression
-------------------------------
-Creating maps: Principles, mistakes and potential
-------------------------------
-Student brown bag: What do you mean I can’t have that public record?
-------------------------------
-Building maps with leaflet and mapbox.js
-------------------------------
-Social media for investigations
-------------------------------
-Campaign Finance II: Going beyond the data
-------------------------------
-Create your own interactive newsgame in 50 minutes!
-------------------------------
-Mini Boot Camp
-------------------------------
-The customized Census: Using microdata
-------------------------------
-Investigating racial inequality
-------------------------------
-Protecting your work from prying eyes
-------------------------------
-Intro To SQLite
-------------------------------
-Building charts and graphs that are connected to live data
-------------------------------
-DataViz for everyone: A practical guide to going responsive
-------------------------------
-Grabbing data from websites: tips and tricks
-------------------------------
-SQLite for command line
-------------------------------
-How PANDA works: Software architecture for big data
-------------------------------
-50 ideas in 50 minutes
-------------------------------
-Weathering the storm: Using data to track nature's fury
-------------------------------
-Using Excel for statistics
-------------------------------
-Everyday scripting
-------------------------------
-100+ tips and tools for news research
-------------------------------
-Lightning talks (Sponsored by John S. and James L. Knight Foundation)
-------------------------------
-Philip Meyer Award Reception
-------------------------------
-CAR Conference Registration (Saturday)
-------------------------------
-CAR Conference Sales (Saturday)
-------------------------------
-Build your first News App (Saturday)
-------------------------------
-The art and craft of finding people
-------------------------------
-How to feel like you're hacking without really doing it
-------------------------------
-Danger! Hazardous materials: Using data to uncover pollution
-------------------------------
-Incorporating data into your beat
-------------------------------
-My friend FRED: A free tool for searching and graphing business, economic and government data
-------------------------------
-Threat modeling: Security for your story
-------------------------------
-Political framing: Computational analysis of rhetoric in large text datasets
-------------------------------
-Getting started with SQL
-------------------------------
-Ruby 1: Introduction
-------------------------------
-Introduction to mapping: Importing and displaying data geographically with QGIS
-------------------------------
-How to uncover inequity and swindlers in subsidized housing programs near you
-------------------------------
-A quick trip through data in the sciences
-------------------------------
-Building a data journalism course
-------------------------------
-Mapping 2: Manipulating and editing geographic data with QGIS
-------------------------------
-docHive: Pulling structured data from scanned PDFs
-------------------------------
-Counting and summing with SQL
-------------------------------
-Ruby 2: Acquiring and transforming data
-------------------------------
-DocumentCloud
-------------------------------
-An app for that: Mobile tech and tools for reporting
-------------------------------
-Journalists - Staying safe in a digital world
-------------------------------
-People and patterns: The network behind the story
-------------------------------
-PostGIS & CartoDB
-------------------------------
-A picture of Earth through time: Storytelling with Google Earth Engine
-------------------------------
-Go! Go! In the hot seat with breaking news
-------------------------------
-Excel magic: Advanced functions in Excel
-------------------------------
-It's not just for looks: Presentation as a storytelling tool
-------------------------------
-Examining prescribing patterns (Phil Meyer Award winner)
-------------------------------
-Joining tables with SQL
-------------------------------
-Ruby 3: Simple web apps with Ruby
-------------------------------
-The fine art of negotiating for data
-------------------------------
-Regular expressions
-------------------------------
-NewsCamp::Demystifying D3
-------------------------------
-OpenElections year-in-review
-------------------------------
-Inside the global offshore money maze
-------------------------------
-Mini Boot Camp - Saturday
-------------------------------
-Advanced GitHubbing and Git Internals
-------------------------------
-Getting started with Python
-------------------------------
-"Mind the Gap" --- Holes in your data can lead you to stories
-------------------------------
-Unlocking secrets of Excel to cover economics and business
-------------------------------
-Inspecting the inspectors: Using inspection data to drive your stories
-------------------------------
-Data deep dives (part 1)
-------------------------------
-Beyond the basics: Advanced SQL for analysis
-------------------------------
-It's not on the exam: Exploring data beyond standardized tests on the education beat
-------------------------------
-CAR wash: Clean that dirty data
-------------------------------
-Python: Beyond the basics I
-------------------------------
-Open data: Practical tips and current issues
-------------------------------
-You won't believe what static site generators can do for news apps
-------------------------------
-Crossing the language boundaries across your newsroom: journo to dev and back
-------------------------------
-Getting data into Excel
-------------------------------
-When to scrape: Tools and techniques
-------------------------------
-Digging online for global data
-------------------------------
-Lyra: Custom visualization design without programming
-------------------------------
-Data deep dives (part 2)
-------------------------------
-Cross-platform collaboration for data projects
-------------------------------
-The latest from Sunlight
-------------------------------
-Python: Beyond the basics II
-------------------------------
-Even more with R
-------------------------------
-Make dirty data shine with OpenRefine (repeat)
-------------------------------
-CAR Conference Sales (Sunday)
-------------------------------
-Advanced searching techniques
-------------------------------
-Tools for Social Network Analysis investigations
-------------------------------
-Where do you want to go: Career roundtable
-------------------------------
-Mini Boot Camp - Sunday
-------------------------------
-Intro to Fusion Tables
-------------------------------
-How to deal with millions of documents without losing your mind (and time)
-------------------------------
-Installation party
-------------------------------
-Census I: Must-have data for every beat
-------------------------------
-OpenElections hackathon
-------------------------------
-Build your bot army
-------------------------------
-Data cleaning in Excel
-------------------------------
-Census II: Going beyond the basics
-------------------------------
-Web tools, tips and tricks for investigations
-------------------------------
-Feel like you're hacking without really doing it
-------------------------------
-What's the deal with data science?
-------------------------------
-Census III: Mapping and presentation
-------------------------------
-A tour of IRE and NICAR (Make the most of your membership)
-------------------------------
+Title, Location, Time
+TechRaking 5ish: Bootstrapping the news (Sponsored by The Center for Investigative Reporting), Chesapeake, 1 p.m. - 5 p.m.
+Detecting corporate fraud (Sponsored by Donald W. Reynolds National Center for Business Journalism), Salon DEF, 2 p.m. - 5 p.m.
+CAR Conference Registration (Wednesday), University Ballroom, 2 p.m. - 5 p.m.
+CAR Conference Sales (Thursday), University Ballroom, 7:30 a.m. - 5 p.m.
+CAR Conference Registration (Thursday), University Ballroom, 7:30 a.m. - 5 p.m.
+Welcome and overview of the conference, Grand Ballroom West, 8:30 a.m. - 8:50 a.m.
+Getting started: Controlling CAR conference overload, Grand Ballroom West, 9 a.m. - 9:50 p.m.
+NewsCamp::The next generation of data viz, Grand Ballroom East, 9 a.m. - 9:50 a.m.
+Getting started with open-source database manager MySQL, Stadium 3, 9 a.m. - 9:50 a.m.
+Rifling through the mapping toolbox, Salon DEF, 9 a.m. - 9:50 a.m.
+PyCAR Mini Boot Camp - Team B, Salon A, 9 a.m. - 4:50 p.m.
+This just in: Data for breaking news investigations, Salon BC, 9 a.m. - 9:50 a.m.
+PyCAR Mini Boot Camp - Team A, Stadium 5, 9 a.m. - 4:50 p.m.
+Media as data-illuminating the undiscovered country of television news, Chesapeake, 9 a.m. - 9:50 a.m.
+Amazon Cloud Basics, Stadium 4, 9 a.m. - 9:50 a.m.
+Mapping Mini Boot Camp, Stadium 2, 9 a.m. - 4:50 p.m.
+Tableau Public for beginners (Hosted by Tableau), Stadium 1, 9 a.m. - 12:30 p.m.
+Enhance your stories with statistics, Salon DEF, 10 a.m. - 10:50 a.m.
+Follow the fracking, Salon BC, 10 a.m. - 10:50 a.m.
+Getting started with open-source database manager MySQL Part II, Stadium 3, 10 a.m. - 10:50 a.m.
+Use FOIA Machine to prepare, send and track your public records requests, Chesapeake, 10 a.m. - 10:50 a.m.
+Make dirty data shine with OpenRefine, Stadium 4, 10 a.m. - 10:50 a.m.
+NewsCamp::Intro to D3, Grand Ballroom East, 10 a.m. - 11:50 a.m.
+The data-driven story (Part 1) Conceiving and launching, Grand Ballroom West, 10 a.m. - 10:50 a.m.
+Dig into business with data investigations, Salon BC, 11 a.m. - 11:50 a.m.
+Love your life, retire your servers, Salon DEF, 11 a.m. - 11:50 a.m.
+The data-driven story (Part 2) Putting the package together, Grand Ballroom West, 11 a.m. - 11:50 a.m.
+FollowTheMoney: Lead the pack in tracking campaign finance, Chesapeake, 11 a.m. - 11:50 a.m.
+Torturing Excel into doing stats, Stadium 4, 11 a.m. - 11:50 a.m.
+Maps and charts in R: real newsroom examples, Stadium 3, 11 a.m. - 11:50 a.m.
+Tableau Public for pros (Hosted by Tableau), Stadium 1, 1:30 p.m. - 5:30 p.m.
+The data-driven story (Part 3): Bulletproofing and presentation, Grand Ballroom West, 2 p.m. - 2:50 p.m.
+Killers and other criminals: Keeping tabs on crime, Salon BC, 2 p.m. - 2:50 p.m.
+NewsCamp: The next generation of data viz (Advanced), See printed schedule for room information, 2 p.m. - 4:50 p.m.
+NewsCamp: The next generation of data viz (Beginner), Stadium 4, 2 p.m. - 4:50 p.m.
+The customized Census: How to use microdata when you just can't find the right table, Chesapeake, 2 p.m. - 2:50 p.m.
+Hacks or Hackers?, Grand Ballroom East, 2 p.m. - 2:50 p.m.
+Free tools for data analysis, Salon DEF, 2 p.m. - 2:50 p.m.
+Breaking out the heavy artillery - using data to track weapons, Salon BC, 3 p.m. - 3:50 p.m.
+Save the data: going from zip (drive) to news by rescuing, analyzing old data, Grand Ballroom West, 3 p.m. - 3:50 p.m.
+Docs! Docs! Docs!, Grand Ballroom East, 3 p.m. - 3:50 p.m.
+When data don't exist, Salon DEF, 3 p.m. - 3:50 p.m.
+Make reporting better, together — Collaborative reporting with GitHub, Chesapeake, 3 p.m. - 3:50 p.m.
+The Investigative Dashboard – Tools to expose organized crime and corruption around the world., Chesapeake, 4 p.m. - 4:50 p.m.
+Investigating infrastructure: The National Inventory of Dams, Salon BC, 4 p.m. - 4:50 p.m.
+Tools for cracking PDFs, Grand Ballroom West, 4 p.m. - 4:50 p.m.
+How the internet watches you, Grand Ballroom East, 4 p.m. - 4:50 p.m.
+Harnessing the power of the crowd, Salon DEF, 4 p.m. - 4:50 p.m.
+CAR Conference Sales (Friday), University Ballroom, 8 a.m. - 5 p.m.
+CAR Conference Registration (Friday), University Ballroom, 8 a.m. - 5 p.m.
+Statistics: an introduction, Stadium 2, 9 a.m. - 9:50 a.m.
+Holding algorithms accountable, Grand Ballroom West, 9 a.m. - 9:50 a.m.
+The year in CAR in odorama, Grand Ballroom East, 9 a.m. - 9:50 a.m.
+A tour of the new Census Reporter, Chesapeake, 9 a.m. - 9:50 a.m.
+Fusion Tables for beginners, Stadium 4, 9 a.m. - 9:50 a.m.
+Intro to JavaScript, Stadium 5, 9 a.m. - 9:50 a.m.
+Getting started with Excel, Stadium 1, 9 a.m. - 9:50 a.m.
+Finding great stories in not-so-great nonprofits, Salon DEF, 9 a.m. - 9:50 a.m.
+It's a disaster, Salon BC, 9 a.m. - 9:50 a.m.
+Build your first News App (Friday), Stadium 3, 9 a.m. - 11:50 a.m.
+Advanced functions in Excel, Salon A, 9 a.m. - 9:50 a.m.
+Statistics: basic linear regression, Stadium 2, 10 a.m. - 10:50 a.m.
+Grab data from the Web with Helium Scraper, Stadium 4, 10 a.m. - 10:50 a.m.
+Complaints: A road map for killer investigations, Salon DEF, 10 a.m. - 10:50 a.m.
+Using formulas in Excel, Stadium 1, 10 a.m. - 10:50 a.m.
+Introduction to R, Stadium 5, 10 a.m. - 10:50 a.m.
+Liberate data from PDFs with Tabula, Salon A, 10 a.m. - 10:50 a.m.
+Free the data: Getting government agencies to give up the goods, Grand Ballroom West, 10 a.m. - 10:50 a.m.
+Powerful data science tools without an engineering degree, Chesapeake, 10 a.m. - 10:50 a.m.
+Proper workflows for data projects, Grand Ballroom East, 10 a.m. - 10:50 a.m.
+Wading through the sea of data on hospitals, doctors, medicine and more, Salon BC, 10 a.m. - 10:50 a.m.
+Pivot tables for stories, Stadium 1, 11 a.m. - 11:50 a.m.
+Analyze networks with NodeXL, Stadium 4, 11 a.m. - 11:50 a.m.
+More than an editor: Leadership for data-driven projects, Salon BC, 11 a.m. - 11:50 a.m.
+Mapping from the desktop to the web, Stadium 5, 11 a.m. - 11:50 a.m.
+Git and GitHub 101 — Create your first pull request today!, Salon A, 11 a.m. - 11:50 a.m.
+PoliInformatics research challenge : New methods for computational investigations of the financial crisis, Chesapeake, 11 a.m. - 11:50 a.m.
+Campaign Finance I: Mining FEC data, Salon DEF, 11 a.m. - 11:50 a.m.
+Cooking with hardware, Grand Ballroom West, 11 a.m. - 11:50 a.m.
+Statistics: logistic regression, Stadium 2, 11 a.m. - 11:50 a.m.
+Creating maps: Principles, mistakes and potential, Grand Ballroom East, 11 a.m. - 11:50 a.m.
+Student brown bag: What do you mean I can’t have that public record?, Salon BC, 12:30 p.m. - 1:30 p.m.
+Building maps with leaflet and mapbox.js, Stadium 3, 2 p.m. - 2:50 p.m.
+Social media for investigations, Grand Ballroom West, 2 p.m. - 2:50 p.m.
+Campaign Finance II: Going beyond the data, Salon DEF, 2 p.m. - 2:50 p.m.
+Create your own interactive newsgame in 50 minutes!, Stadium 5, 2 p.m. - 2:50 p.m.
+Mini Boot Camp, See printed schedule for room information, 2 p.m. - 3:50 p.m.
+The customized Census: Using microdata, Salon A, 2 p.m. - 2:50 p.m.
+Investigating racial inequality, Salon BC, 2 p.m. - 2:50 p.m.
+Protecting your work from prying eyes, Grand Ballroom East, 2 p.m. - 2:50 p.m.
+Intro To SQLite, Stadium 4, 2 p.m. - 2:50 p.m.
+Building charts and graphs that are connected to live data, Chesapeake, 2 p.m. - 2:50 p.m.
+DataViz for everyone: A practical guide to going responsive, Grand Ballroom West, 3 p.m. - 3:50 p.m.
+Grabbing data from websites: tips and tricks, Stadium 5, 3 p.m. - 3:50 p.m.
+SQLite for command line, Stadium 4, 3 p.m. - 3:50 p.m.
+How PANDA works: Software architecture for big data, Chesapeake, 3 p.m. - 3:50 p.m.
+50 ideas in 50 minutes, Salon DEF, 3 p.m. - 3:50 p.m.
+Weathering the storm: Using data to track nature's fury, Salon BC, 3 p.m. - 3:50 p.m.
+Using Excel for statistics, Salon A, 3 p.m. - 3:50 p.m.
+Everyday scripting, Stadium 3, 3 p.m. - 3:50 p.m.
+100+ tips and tools for news research, Grand Ballroom East, 3 p.m. - 3:50 p.m.
+Lightning talks (Sponsored by John S. and James L. Knight Foundation), Grand Ballroom East, 4:15 p.m. - 5:30 p.m.
+Philip Meyer Award Reception, University Ballroom, 5:30 p.m. - 6:45 p.m.
+CAR Conference Registration (Saturday), University Ballroom, 8:30 a.m. - 5 p.m.
+CAR Conference Sales (Saturday), University Ballroom, 8:30 a.m. - 5 p.m.
+Build your first News App (Saturday), Stadium 3, 9 a.m. - 11:50 a.m.
+The art and craft of finding people, Grand Ballroom West, 9 a.m. - 9:50 a.m.
+How to feel like you're hacking without really doing it, Stadium 4, 9 a.m. - 9:50 a.m.
+Danger! Hazardous materials: Using data to uncover pollution, Salon BC, 9 a.m. - 9:50 a.m.
+Incorporating data into your beat, Salon DEF, 9 a.m. - 9:50 a.m.
+My friend FRED: A free tool for searching and graphing business, economic and government data, Salon A, 9 a.m. - 9:50 a.m.
+Threat modeling: Security for your story, Grand Ballroom East, 9 a.m. - 9:50 a.m.
+Political framing: Computational analysis of rhetoric in large text datasets, Chesapeake, 9 a.m. - 9:50 a.m.
+Getting started with SQL, Stadium 2, 9 a.m. - 9:50 a.m.
+Ruby 1: Introduction, Stadium 5, 9 a.m. - 9:50 a.m.
+Introduction to mapping: Importing and displaying data geographically with QGIS, Stadium 1, 9 a.m. - 9:50 a.m.
+How to uncover inequity and swindlers in subsidized housing programs near you, Salon DEF, 10 a.m. - 10:50 a.m.
+A quick trip through data in the sciences, Grand Ballroom East, 10 a.m. - 10:50 a.m.
+Building a data journalism course, Salon BC, 10 a.m. - 10:50 a.m.
+Mapping 2: Manipulating and editing geographic data with QGIS, Stadium 1, 10 a.m. - 10:50 a.m.
+docHive: Pulling structured data from scanned PDFs, Salon A, 10 a.m. - 10:50 a.m.
+Counting and summing with SQL, Stadium 2, 10 a.m. - 10:50 a.m.
+Ruby 2: Acquiring and transforming data, Stadium 5, 10 a.m. - 10:50 a.m.
+DocumentCloud, Stadium 4, 10 a.m. - 10:50 a.m.
+An app for that: Mobile tech and tools for reporting, Grand Ballroom West, 10 a.m. - 10:50 a.m.
+Journalists - Staying safe in a digital world, Chesapeake, 10 a.m. - 10:50 a.m.
+People and patterns: The network behind the story, Salon DEF, 11 a.m. - 11:50 a.m.
+PostGIS & CartoDB, Stadium 4, 11 a.m. - 11:50 a.m.
+A picture of Earth through time: Storytelling with Google Earth Engine, Chesapeake, 11 a.m. - 11:50 a.m.
+Go! Go! In the hot seat with breaking news, Salon A, 11 a.m. - 11:50 a.m.
+Excel magic: Advanced functions in Excel, Stadium 1, 11 a.m. - 11:50 a.m.
+It's not just for looks: Presentation as a storytelling tool, Grand Ballroom East, 11 a.m. - 11:50 a.m.
+Examining prescribing patterns (Phil Meyer Award winner), Salon BC, 11 a.m. - 11:50 a.m.
+Joining tables with SQL, Stadium 2, 11 a.m. - 11:50 a.m.
+Ruby 3: Simple web apps with Ruby, Stadium 5, 11 a.m. - 11:50 a.m.
+The fine art of negotiating for data, Grand Ballroom West, 11 a.m. - 11:50 a.m.
+Regular expressions, Salon A, 2 p.m. - 2:50 p.m.
+NewsCamp::Demystifying D3, Grand Ballroom East, 2 p.m. - 2:50 p.m.
+OpenElections year-in-review, Chesapeake, 2 p.m. - 2:50 p.m.
+Inside the global offshore money maze, Grand Ballroom West, 2 p.m. - 2:50 p.m.
+Mini Boot Camp - Saturday, See printed schedule for room information, 2 p.m. - 4:50 p.m.
+Advanced GitHubbing and Git Internals, Stadium 5, 2 p.m. - 2:50 p.m.
+Getting started with Python, Stadium 3, 2 p.m. - 2:50 p.m.
+"Mind the Gap" --- Holes in your data can lead you to stories, Salon DEF, 2 p.m. - 2:50 p.m.
+Unlocking secrets of Excel to cover economics and business, Stadium 4, 2 p.m. - 2:50 p.m.
+Inspecting the inspectors: Using inspection data to drive your stories, Salon BC, 2 p.m. - 2:50 p.m.
+Data deep dives (part 1), Salon DEF, 3 p.m. - 3:50 p.m.
+Beyond the basics: Advanced SQL for analysis, Stadium 4, 3 p.m. - 3:50 p.m.
+It's not on the exam: Exploring data beyond standardized tests on the education beat, Salon BC, 3 p.m. - 3:50 p.m.
+CAR wash: Clean that dirty data, Salon A, 3 p.m. - 3:50 p.m.
+Python: Beyond the basics I, Stadium 3, 3 p.m. - 3:50 p.m.
+Open data: Practical tips and current issues, Grand Ballroom West, 3 p.m. - 3:50 p.m.
+You won't believe what static site generators can do for news apps, Chesapeake, 3 p.m. - 3:50 p.m.
+Crossing the language boundaries across your newsroom: journo to dev and back, Grand Ballroom East, 3 p.m. - 3:50 p.m.
+Getting data into Excel, Stadium 5, 3 p.m. - 3:50 p.m.
+When to scrape: Tools and techniques, Grand Ballroom West, 4 p.m. - 4:50 p.m.
+Digging online for global data, Grand Ballroom East, 4 p.m. - 4:50 p.m.
+Lyra: Custom visualization design without programming, Stadium 5, 4 p.m. - 4:50 p.m.
+Data deep dives (part 2), Salon DEF, 4 p.m. - 4:50 p.m.
+Cross-platform collaboration for data projects, Salon BC, 4 p.m. - 4:50 p.m.
+The latest from Sunlight, Chesapeake, 4 p.m. - 4:50 p.m.
+Python: Beyond the basics II, Stadium 3, 4 p.m. - 4:50 p.m.
+Even more with R, Stadium 4, 4 p.m. - 4:50 p.m.
+Make dirty data shine with OpenRefine (repeat), Salon A, 4 p.m. - 4:50 p.m.
+CAR Conference Sales (Sunday), University Ballroom, 8:30 a.m. - 10:30 a.m.
+Advanced searching techniques, Salon DEF, 9 a.m. - 9:50 a.m.
+Tools for Social Network Analysis investigations, Salon BC, 9 a.m. - 11:50 a.m.
+Where do you want to go: Career roundtable, Grand Ballroom East, 9 a.m. - 9:50 a.m.
+Mini Boot Camp - Sunday, See printed schedule for room information, 9 a.m. - 11:50 a.m.
+Intro to Fusion Tables, Stadium 4, 9 a.m. - 9:50 a.m.
+How to deal with millions of documents without losing your mind (and time), Chesapeake, 9 a.m. - 9:50 a.m.
+Installation party, Salon A, 9 a.m. - 10:50 a.m.
+Census I: Must-have data for every beat, Grand Ballroom West, 9 a.m. - 9:50 a.m.
+OpenElections hackathon, Chesapeake, 10 a.m. - 6 p.m.
+Build your bot army, Salon DEF, 10 a.m. - 10:50 a.m.
+Data cleaning in Excel, Stadium 4, 10 a.m. - 10:50 a.m.
+Census II: Going beyond the basics, Grand Ballroom West, 10 a.m. - 10:50 a.m.
+Web tools, tips and tricks for investigations, Grand Ballroom East, 10 a.m. - 10:50 a.m.
+Feel like you're hacking without really doing it, Salon DEF, 11 a.m. - 11:50 a.m.
+What's the deal with data science?, Grand Ballroom East, 11 a.m. - 11:50 a.m.
+Census III: Mapping and presentation, Grand Ballroom West, 11 a.m. - 11:50 a.m.
+A tour of IRE and NICAR (Make the most of your membership), Stadium 4, 11 a.m. - 11:50 a.m.
